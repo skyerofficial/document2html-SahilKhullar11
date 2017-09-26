@@ -1,0 +1,67 @@
+Semantic Tags 
+<header> </header>
+<footer> </footer>
+Non-Semantic Tags
+<div> </div>
+<span> </span>
+Comments
+<!     >
+
+./ -> back to previous folder
+../ ->back to home(to come out of a folder)
+
+		ABC
+	        /  \
+	      DE    HG
+	     /	\  /  \
+	    F	G  I   J		
+j->F
+ABC/DE/F ->Absolute
+../DE/F   ->Relative
+	
+		 A
+	        /  \
+	      B    C
+	     /	\  /  \
+	    D	E  F   G
+	   /      /
+	  Y	 X
+X->Y
+../../B/D/Y ->Relative
+
+
+image -> Inline Tag
+
+
+bit.do/webhour_hw1 (list)
+bit.do/git-blog
+
+
+https://github.com/skyerofficial/document2html-SahilKhullar11
+
+git config --global user.name "SahilKhullar11"
+git config --global user.email "khullarsahil11@gmail.com"
+git init
+Initialize empty Git repository 
+git status
+git add <filename>
+git add <filename1> <filename 2>
+git add .  ->to add all files in current folder
+.gitignore
+git commit
+git commit -m "changes made"
+commit c0804e080efe241cd3e9332371828518b3c8413e -> unique number to identify commit.
+git remote add origin <url> -> to add a repository
+git push -u origin -> to copy files from local to remote. ( to be done one time only )
+git clone <url> -> to clone repository from remote to local and they are linked.
+git push ->  to save changes in remote made in local
+git pull origin master -> to save changes in local made in remote. ( to be one time only)
+git diff <filename>
+git pull -> to save changes in local made in remote
+
+git pull origin master --rebase  ->Apparently your local branch is out of sync with your tracking branch.
+
+git log
+
+git branch <branchname> -> new branch  (day2_branch)
+git checkout <branchname> -> enter into a branch
