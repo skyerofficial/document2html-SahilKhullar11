@@ -6,7 +6,9 @@ Non-Semantic Tags
 <span> </span>
 Comments
 <!     >
-
+<p>
+write a paragragh here
+</p>
 ./ -> back to previous folder
 ../ ->back to home(to come out of a folder)
 
