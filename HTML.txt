@@ -3,6 +3,8 @@ Semantic Tags
 <footer> </footer>
 Non-Semantic Tags
 <div> </div>
+hello
+bye
 <span> </span>
 Comments
 <!     >
