@@ -4,10 +4,13 @@ Semantic Tags
 Non-Semantic Tags
 <div> </div>
 hello
+good
 bye
+
 <span> </span>
 Comments
 <!     >
+
 
 ./ -> back to previous folder
 ../ ->back to home(to come out of a folder)
